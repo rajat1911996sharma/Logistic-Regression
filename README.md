@@ -1,6 +1,6 @@
 # Logistic-Regression
 
-In this project I workied with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. 
+In this project I worked with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. 
 
 This data set contains the following features:
 
